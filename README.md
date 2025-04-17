@@ -21,7 +21,7 @@ Feel free to explore my repositories to see more of my work.
 
 ## 📫 Contact Me
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+- 📧 Email: [andikafebrianto.course@gmail.com](mailto:andikafebrianto.course@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/andika-febrianto14](https://linkedin.com/in/andika-febrianto14)
 - 📷 Instagram: [@andika.fe_](https://instagram.com/andika.fe_)
 
